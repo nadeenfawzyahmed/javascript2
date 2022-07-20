@@ -1,0 +1,16 @@
+.displayFlex{
+    display: flex;
+    flex-direction: row;
+}
+.paddingleft{
+    padding-left: 30px;
+
+}
+.liststyle{
+    list-style: none;
+
+
+}
+.active1{
+    list-style:circle
+}
